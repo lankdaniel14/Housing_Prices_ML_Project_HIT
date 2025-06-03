@@ -78,9 +78,9 @@ HOUSING_PRICES_ML_PROJECT_HIT/
 ### 📦 Installation
 
 ```bash
+cd "Name_A_Folder"
 git clone https://github.com/lankdaniel14/Housing_Prices_ML_Project_HIT
-cd Housing_Prices_ML_Project_HIT
-pip install -r requirements.txt  # Create this file if needed
+
 ```
 
 ### ▶️ Usage
