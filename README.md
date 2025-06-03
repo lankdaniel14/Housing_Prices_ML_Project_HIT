@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/github/languages/count/lankdaniel14/Housing_Prices_ML_Project_HIT?style=flat&color=0080ff" alt="repo-language-count">
 </p>
 
+![House Image](House%20image.jpg)
+
+
 ---
 
 ## 📌 Table of Contents
