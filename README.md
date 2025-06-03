@@ -1,6 +1,6 @@
-# 🏡 Predicting California Housing Prices – Supervised ML Workflow (HIT)
+# 🏡 Predicting Housing Prices – Supervised ML Workflow (HIT)
 
-<em>Machine learning pipeline for predicting median house values using the California Housing dataset</em>
+<em>Machine learning pipeline for predicting median house values using the Housing dataset</em>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/lankdaniel14/Housing_Prices_ML_Project_HIT?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -29,7 +29,7 @@
 ## 📖 Project Overview
 
 This project was developed as part of an academic assignment in the Supervised Learning course at HIT.  
-It demonstrates how to train and evaluate multiple regression models to predict housing prices using the **California Housing dataset**.
+It demonstrates how to train and evaluate multiple regression models to predict housing prices using the **Housing dataset**.
 
 The project follows a full machine learning pipeline:
 - Data loading and exploration (EDA)
